@@ -43,3 +43,10 @@
     name = "Mermaid"
   [params.relearn.dependencies.openapi]
     name = "OpenApi"
+
+
+  [[languages.en.menu.shortcuts]]
+    name = "<i class='fa-fw fab fa-github'></i> GitHub repo"
+    identifier = "ds"
+    url = "https://github.com/p0bailey/test"
+    weight = 10

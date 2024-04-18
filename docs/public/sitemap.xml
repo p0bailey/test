@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/1.introduction/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:1313/basics/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:1313/basics/configuration/index.html</loc>
+  </url>
+  <url>
     <loc>//localhost:1313/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:1313/index.html</loc>
   </url>
   <url>
     <loc>//localhost:1313/tags/index.html</loc>
